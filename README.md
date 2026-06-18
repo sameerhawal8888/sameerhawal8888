@@ -59,23 +59,8 @@ act faster and smarter.
 | Financial Forecasting Model | Excel, Statistics | [View](https://app.fabric.microsoft.com/groups/me/reports/83c4821b-650a-4df7-920a-e768015c58b9/bdd5beae10b03d3dde8c?experience=power-bi) |
 
 
----
-
-### 📈 GitHub Stats
 
 
-
-![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerhawal8888&show_icons=true&theme=tokyonight)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerhawal8888&layout=compact&theme=tokyonight)
-
-
-
----
 
 ### 🔗 Connect With Me
 
