@@ -51,13 +51,13 @@ act faster and smarter.
 
 ---
 
-### 📊 My Projects
+### 📊 My Top 2 Projects
 
 | Project | Tools | Link |
 |---------|-------|------|
-| Sales Performance Dashboard | Power BI, DAX, SQL | [View](#) |
-| Financial Forecasting Model | Excel, Statistics | [View](#) |
-| Customer Data Analysis | SQL, Python | [View](#) |
+| Engine Performance Dashboard | Power BI, DAX, SQL | [View](https://app.fabric.microsoft.com/groups/me/reports/de698aaf-4d05-4c15-804d-de27798f689f/aee9a95eca49db0324f5?experience=power-bi) |
+| Financial Forecasting Model | Excel, Statistics | [View](https://app.fabric.microsoft.com/groups/me/reports/83c4821b-650a-4df7-920a-e768015c58b9/bdd5beae10b03d3dde8c?experience=power-bi) |
+
 
 ---
 
