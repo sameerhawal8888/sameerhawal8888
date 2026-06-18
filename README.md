@@ -7,7 +7,7 @@
 🎓 B.Tech CSE (2026) — DKTE Kolhapur  
 📍 Kolhapur, Maharashtra  
 🔍 Actively seeking Data Analyst / BI Developer roles  
-📩 [your email]
+📩 sameerhawal08@gmail.com
 
 ---
 
