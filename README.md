@@ -35,7 +35,27 @@ act faster and smarter.
 
 
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 
 
@@ -44,10 +64,18 @@ act faster and smarter.
 
 
 
+---
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 📜 Certifications (In Progress)
 
 
+
+![PL-300](https://img.shields.io/badge/Microsoft_PL--300-Power_BI_Data_Analyst-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+
+
+![Gen AI](https://img.shields.io/badge/Generative_AI-In_Progress-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
