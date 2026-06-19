@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sameer Hawal
 
-### Data Analyst | Power BI • SQL • Python | Finance Analytics
+### Data Analyst | Power BI • SQL • Python | Finance Analytics | Business Analytics
 
 ---
 
