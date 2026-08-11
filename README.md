@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sameer Hawal
+f# Hi 👋 I'm Sameer Hawal
 
 ### Data Analyst | Power BI • SQL • Python | Finance Analytics | Business Analytics
 
@@ -63,6 +63,8 @@ act faster and smarter.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 
+![Gen AI](https://img.shields.io/badge/Generative_AI-Completed-28a745?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ---
 
@@ -75,7 +77,6 @@ act faster and smarter.
 
 
 
-![Gen AI](https://img.shields.io/badge/Generative_AI-In_Progress-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
